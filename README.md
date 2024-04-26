@@ -37,4 +37,5 @@ Your feedback is invaluable! If you have any suggestions, questions, or feedback
 
 ## Resources 
 
-[YouTube: Algorithms and Data Structures Tutorial - Full Course for Beginners] https://www.youtube.com/watch?v=8hly31xKli0&t=7072s
+# [YouTube: Algorithms and Data Structures Tutorial - Full Course for Beginners] https://www.youtube.com/watch?v=8hly31xKli0&t=7072s
+# Article: Big O Notation , Time Complexirt  Cheat sheet - https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/
